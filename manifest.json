@@ -1,0 +1,27 @@
+
+{
+  "name": "Jairo Esaú Romano Rodríguez Personal Website",
+  "short_name": "Personal Website",
+  "description": "Personal website for Jairo Esaú Romano Rodríguez",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "192": "logo192.png",
+    "512": "logo512.png"
+  },
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "name.133e1847.svg",
+        "yo.e3810391.png",
+        "death-star.80f8e758.png",
+        "static/media/*"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
