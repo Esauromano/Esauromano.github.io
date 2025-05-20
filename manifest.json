@@ -18,8 +18,7 @@
       "resources": [
         "name.133e1847.svg",
         "yo.e3810391.png",
-        "death-star.80f8e758.png",
-        "static/media/*"
+        "death-star.80f8e758.png"
       ],
       "matches": ["<all_urls>"]
     }
